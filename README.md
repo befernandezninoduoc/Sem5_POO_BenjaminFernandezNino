@@ -62,14 +62,13 @@ Sem5_POO_BenjaminFernandezNino
 5. Haz clic en el botón verde ▶️ o presiona **Shift + F10**  
 6. ¡Listo! La salida aparece en la consola
 
-### Opción 2 – Desde terminal (funciona siempre en Windows, Mac y Linux)
-```bash
+### Opción 2 – Desde terminal (funciona en Windows, Mac y Linux)
+
 1. Abre una terminal en la carpeta del proyecto y ejecuta:
 mvn clean package
-
 2. Luego ejecuta el programa:
 java -jar target/Sem5_Sumativa2_POO-1.0.jar
-
+```bash
 
 ---
 
