@@ -1,0 +1,6 @@
+Isla Huar;Calbuco;1200.5
+Isla Chaullín;Hualaihué;1850.0
+Isla Tenglo;Puerto Montt;200.6
+Estero Navarro;Chaitén;900.00
+Isla Coldita;Castro;1888.9
+Punta Arenas;Maullín;500.0

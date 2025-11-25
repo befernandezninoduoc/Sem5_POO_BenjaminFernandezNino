@@ -1,0 +1,6 @@
+com\salmontt\model\Trabajador.class
+com\salmontt\model\DatosInvalidosException.class
+com\salmontt\ui\Main.class
+com\salmontt\data\GestorDatos.class
+com\salmontt\model\CentroCultivo.class
+com\salmontt\model\PlantaProcesamiento.class
