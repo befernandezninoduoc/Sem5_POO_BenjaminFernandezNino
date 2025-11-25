@@ -16,7 +16,7 @@
 
         <maven.jar.mainClass>com.salmontt.ui.Main</maven.jar.mainClass>
     </properties>
-
+   <!-- No usé dependencias porque solo use java puro con uso de .txt, no uso un archivo externo como excel -->
     <build>
         <plugins>
             <plugin>
