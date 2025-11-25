@@ -54,16 +54,21 @@ Sem5_POO_BenjaminFernandezNino
 
 ## ⚙️ ## Instrucciones para Compilar y Ejecutar
 
-### Opción 1: Usando IntelliJ IDEA 
+### Opción 1 – Desde IntelliJ IDEA (recomendado para desarrollo)
+1. Abre IntelliJ IDEA  
+2. Selecciona **Open** → busca la carpeta del proyecto  
+3. Espera a que Maven cargue las dependencias automáticamente  
+4. Abre la clase `com.salmontt.ui.Main`  
+5. Haz clic en el botón verde ▶️ o presiona **Shift + F10**  
+6. ¡Listo! La salida aparece en la consola
 
-1. Abre IntelliJ IDEA
-2. Selecciona **"Open"** → navega hasta la carpeta del proyecto
-3. Espera a que cargue y compile automáticamente
-4. Abre la clase app.Main
-5. Haz clic en el **botón verde ▶️** o presiona **Shift + F10**
-6. Listo, observa la salida en la consola
+### Opción 2 – Desde terminal (funciona siempre en Windows, Mac y Linux)
+```bash
+1. Abre una terminal en la carpeta del proyecto y ejecuta:
+mvn clean package
 
-### Opcion 2: ejecutar .jar
+2. Luego ejecuta el programa:
+java -jar target/Sem5_Sumativa2_POO-1.0.jar
 
 
 ---
